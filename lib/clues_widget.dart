@@ -59,6 +59,16 @@ class _CluesState extends State<Clues> {
                     ),
                   ),
                 ),
+                ExpandablePanel(
+                  header: Text("Clue 4"),
+                  expanded: Padding(
+                    padding: const EdgeInsets.all(16.0),
+                    child: Text(
+                      clueData[index]['Clue4'],
+                      style: TextStyle(color: Colors.yellow.withOpacity(0.6)),
+                    ),
+                  ),
+                ),
                 ButtonBar(
                   alignment: MainAxisAlignment.start,
                   children: [

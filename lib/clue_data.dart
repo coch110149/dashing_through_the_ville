@@ -11,6 +11,14 @@ class ClueData {
       'Clue4':
           'Go to Phillips 66 located on 4th and Keller. We have been living our values of Safety, Honor, Commitment while providing energy and improving lives.',
       'Completed': true,
-    }
+    },
+    {
+      'SponsorName': 'Ascension St. John Jane Phillips',
+      'Clue1': 'there is not one ',
+      'Clue2': 'If there was not a clue one, why would there be a 2 ',
+      'Clue3': 'You are kidding me right?.',
+      'Clue4': 'YOU WIN!!!!!',
+      'Completed': false,
+    },
   ];
 }
